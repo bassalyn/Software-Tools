@@ -1,0 +1,83 @@
+Script started on Sat 13 Oct 2018 12:57:31 AM EDT
+[?1034hbash-4.2$ pwf[Kd
+/gaul/s1/student/2018/bassalyn/Courses/CS2211a/Asns/asn2
+bash-4.2$ date
+Sat Oct 13 00:57:36 EDT 2018
+bash-4.2$ who am i
+bassalyn pts/11       2018-10-13 00:57
+bash-4.2$ ./convet[Krter
+What do you want to do (options 1-5): 5
+bash-4.2$ ./converter
+What do you want to do (options 1-5): 1
+What direction would you like convert from-to K or M?:
+F
+Please input either a M of F to indicate the direction :
+What direction would you like convert from-to K or M?:
+K
+Please input the value you wish to convert :
+50
+Your input in miles is 31.068550
+What do you want to do (options 1-5): 1
+What direction would you like convert from-to K or M?:
+M J
+Please input either a M of F to indicate the direction :
+What direction would you like convert from-to K or M?:
+M
+Please input the value you wish to convert :
+50
+Your input in km is 80.467003
+What do you want to do (options 1-5): 2
+What direction would you like convert from-to M or F ?:
+M J
+Please input either M or F to indicate direction :
+What direction would you like convert from-to M or F ?:
+M
+Please input the value you wish to convert :
+20.3
+Your input in Feet is 66.601051
+What do you want to do (options 1-5): 2
+What direction would you like convert from-to M or F ?:
+K
+Please input either M or F to indicate direction :
+What direction would you like convert from-to M or F ?:
+F
+Please input the value you wish to convert :
+75.6
+Your input in Meters is 23.042879
+What do you want to do (options 1-5): 3
+What direction would you like convert from-to C or I?:
+S
+Please input either a C or I to indicate direction :
+What direction would you like convert from-to C or I?:
+C
+Please input the value you wish to convert :
+50
+Your input in Inches is 19.685049
+What do you want to do (options 1-5): 3
+What direction would you like convert from-to C or I?:
+I
+Please input the value you wish to convert :
+80.4
+Your input in Centimetres is 204.216003
+What do you want to do (options 1-5): 4
+What direction would you like convert from-to C or F?:
+s
+Please input either a C or F to indicate direction :
+What direction would you like convert from-to C or F?:
+C
+Please input the value you wish to convert :
+20
+Your input in Fahrenheit is 68.000000
+What do you want to do (options 1-5): 4
+What direction would you like convert from-to C or F?:
+F
+Please input the value you wish to convert :
+50
+Your input in Celsius is 10.000001
+What do you want to do (options 1-5): K
+error invalid input, please enter a char 1-5!
+What do you want to do (options 1-5): 5
+bash-4.2$ exit
+exit
+
+Script done on Sat 13 Oct 2018 01:01:07 AM EDT
