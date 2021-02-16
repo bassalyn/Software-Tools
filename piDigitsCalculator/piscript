@@ -1,0 +1,21 @@
+Script started on Mon 12 Nov 2018 02:27:47 PM EST
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/bassalyn/Courses/CS2211a/Asns/asn4
+bash-4.2$ who[K[K[Kdate
+Mon Nov 12 14:27:53 EST 2018
+bash-4.2$ who am i
+bassalyn pts/30       2018-11-12 14:27
+bash-4.2$ gcc -oi[K pi.[K[Ki pi.c
+bash-4.2$ ./pi
+Pleas enter the desired accuracy epsilon : 0.0001
+The value of pi approximated to epsilon : 0.000100000000000000 is 3.141542653589824763
+bash-4.2$ ./[o[K[Kpi
+Pleas enter the desired accuracy epsilon : 0.000001
+The value of pi approximated to epsilon : 0.000001000000000000 is 3.141592153589724212
+bash-4.2$ ./pi
+Pleas enter the desired accuracy epsilon : 0.00000001
+The value of pi approximated to epsilon : 0.000000010000000000 is 3.141592648589407677
+bash-4.2$ exit
+exit
+
+Script done on Mon 12 Nov 2018 02:29:07 PM EST
