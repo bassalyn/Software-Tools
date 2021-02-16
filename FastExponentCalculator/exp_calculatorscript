@@ -1,0 +1,36 @@
+Script started on Tue 16 Oct 2018 10:45:28 AM EDT
+[?1034hbash-4.2$ pwd
+/gaul/s1/student/2018/bassalyn/Courses/CS2211a/Asns/asn2
+bash-4.2$ w[Kdate
+Tue Oct 16 10:45:34 EDT 2018
+bash-4.2$ who ami[K i 
+bassalyn pts/60       2018-10-16 10:45
+bash-4.2$ ./exp_calculator 
+Enter a base (float):
+-5
+Error please enter a positive base (float)2
+Enter an exponent (int) :
+10
+The result of 2.000000 to the 10 is : 1024.000000 
+bash-4.2$ ./exp_calculator 
+Enter a base (float):
+- 2
+Enter an exponent (int) :
+-1 6
+The result of 2.000000 to the -6 is : 0.015625 
+bash-4.2$ ./exp_calculator 
+Enter a base (float):
+11
+Enter an exponent (int) :
+6
+The result of 11.000000 to the 6 is : 1771561.000000 
+bash-4.2$ ./exp_calculator 2[K
+Enter a base (float):
+8
+Enter an exponent (int) :
+-5
+The result of 8.000000 to the -5 is : 0.000031 
+bash-4.2$ sc[K[Kexit
+exit
+
+Script done on Tue 16 Oct 2018 10:46:41 AM EDT
